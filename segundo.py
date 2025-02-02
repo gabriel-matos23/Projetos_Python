@@ -2,6 +2,7 @@
 john = 1
 adam = 2
 jose = 4
+irineu = "Sou um expert em Python"
 
 total_apples = john + adam + jose
 
